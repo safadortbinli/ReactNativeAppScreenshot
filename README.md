@@ -6,4 +6,3 @@
 | -Odeme yapabilme boyut sunulmuştur.
 | Uygulama Google Play store ve Apple store da yayınlanacak olup, şu anda şirket geliştirici hesaplarının onaylanma süreci devam etmektedir.
 
-| Ekran göürüntülerine "İmages" klaöründen ulaşabilirsiniz. 
